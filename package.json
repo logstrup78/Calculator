@@ -1,0 +1,23 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "A cool calculator",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/logstrup78/Calculator.git"
+  },
+  "author": "Karsten Løgstrup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/logstrup78/Calculator/issues"
+  },
+  "homepage": "https://github.com/logstrup78/Calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}

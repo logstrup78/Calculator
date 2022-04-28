@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 100vh;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    width: 600px;
+    background-color: aliceblue;
+    border-radius: 40px;
+}
